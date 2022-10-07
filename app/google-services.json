@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "177271334608",
+    "project_id": "login-by-email",
+    "storage_bucket": "login-by-email.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177271334608:android:a57e69bdb77c0a693860d5",
+        "android_client_info": {
+          "package_name": "com.dicoding.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177271334608-q9u7guj081grc0gt7lb2d9ung7l0cf3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.firebase",
+            "certificate_hash": "f7b2b8d1999f284d81939e819a69415663f6df58"
+          }
+        },
+        {
+          "client_id": "177271334608-88dbncpl2s16fm3ov0gk9f3vcijortl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7tiEq8eAJQ4J6yFXe4gJv5fblJJVSipo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177271334608-88dbncpl2s16fm3ov0gk9f3vcijortl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
